@@ -140,7 +140,6 @@ Route::middleware('auth:sanctum')->group( function (){
     // // Route::get('/physicalorder', [physicalCashierOrders::class, 'index']);
 
     Route::get('/adminalldata', [allAdminItem::class, 'index']);
-
     Route::post('/userall/store', [userAllOrderController::class, 'store']);
 });
 
