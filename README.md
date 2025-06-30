@@ -44,6 +44,13 @@ This project was created as part of our thesis/capstone requirements while we we
 
 This project is **free** and open for everyone to use, share, modify, and improve for any purpose.
 
+## Contact
+
+Feel free to reach out for questions, collaboration, or feedback:
+
+- Email: [rompaulosarmiento0125@gmail.com](mailto:rompaulosarmiento0125@gmail.com)
+- LinkedIn: [Rom Paulo Sarmiento](https://www.linkedin.com/in/rom-paulo-sarmiento-461688146/)
+
 ---
 
 Thank you for checking out our work!  
